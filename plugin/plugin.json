@@ -1,0 +1,16 @@
+{
+	"version": "1.0.0",
+	"pluginName": "Lua 5.3 文档",
+	"description": "Lua 5.3 文档速查",
+	"author": "IT老大哥",
+	"homepage": "https://gitee.com/itldg/utools-lua-doc",
+	"preload": "preload.js",
+	"logo": "logo.png",
+	"features": [
+		{
+			"code": "lua",
+			"explain": "Lua 5.3 文档速查",
+			"cmds": ["Lua", "lua"]
+		}
+	]
+}

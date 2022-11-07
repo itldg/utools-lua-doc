@@ -1,0 +1,19 @@
+{
+  "name": "utools-lua-doc",
+  "version": "1.0.0",
+  "description": "uTools Lua 文档",
+  "scripts": {
+    "make": "node make.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/itldg/utools-lua-doc.git"
+  },
+  "author": "IT老大哥",
+  "license": "MIT",
+  "dependencies": {
+    "highlight.js": "^11.6.0",
+    "jquery": "^3.6.1",
+    "jsdom": "^20.0.2"
+  }
+}
